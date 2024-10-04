@@ -10,20 +10,30 @@ from read import cc, ce, hist
 
 print("\n", "="*10, "OBRIGATÓRIAS - PERÍODO 2","="*10, "\n")
 
+# Atualizando cursos feitos, de acordo com o histórico
+ce.atualiza(hist)
+cc.atualiza(hist)
+
+# Para cada curso de Ciências Exatas
 for curso in ce.cursos:
-    
+
+    # Achar o correspondente em ciência da computação    
     corresp = curso.correspondente(cc)
 
+    # Se houver correspondente obrigatório, for possível, e não tiver sido feito
     if (corresp is not None 
         and corresp.tipo == Tipo.obrigatoria
         and curso.possivel
         and not curso.feito):
+            
+            # Imprimir e marcar como concluído, para calcular período seguinte
             print(curso)
             curso.feito = True
             hist.append(curso)
 
+# Inserção manual por quebra de pré-requisito ultrapassado
 hist.append(ce.busca("DCC107"))
-print(hist.append(ce.busca("DCC025")), "\b*")
+print(hist.append(ce.busca("DCC025")))
 
 # =============================================================================
 
