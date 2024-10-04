@@ -193,6 +193,15 @@ class Curriculo:
         # Retornando disciplinas em comum
         return self.busca(codigos_em_comum)
     
+    def verifica_ch(self, crit):
+        """
+        Verifica cumprimento da carga horária exigida.
+        """
+
+        for key in crit.keys():
+            pass
+        print(self.ch, crit)
+
     def ira(self):
         """ Calcula o IRA """
         soma_notas = 0

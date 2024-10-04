@@ -4,7 +4,7 @@ quais as próximas disciplinas que poderei fazer.
 """
 
 from classes import Tipo
-from read import cc, ce, hist
+from read import cc, ce, hist, crit_cc, crit_ce
 
 # =============================================================================
 
@@ -48,5 +48,8 @@ for curso in ce.cursos:
         and corresp.tipo == Tipo.obrigatoria
         and curso.possivel
         and not curso.feito):
+            
             print(curso)
             curso.feito = True
+
+ce.atualiza(hist)
