@@ -22,18 +22,3 @@ cc_obg = Curriculo.from_csv("dados/CC/CC-OBRIGATÓRIAS.csv", map=map, tipo=Tipo.
 cc_elet = Curriculo.from_csv("dados/CC/CC-ELETIVAS.csv", map=map, tipo=Tipo.eletiva1)
 cc_comp = Curriculo.from_csv("dados/CC/CC-ELETIVAS-COMP.csv", map=map, tipo=Tipo.eletiva2)
 cc = Curriculo(cc_obg.cursos + cc_elet.cursos + cc_comp.cursos)
-
-
-crit_ce = {
-    Tipo.obrigatoria : 600,
-    Tipo.eletiva1 : 1080, ## 1 e 2
-    Tipo.optativa : 240,
-    Tipo.tcc : 360,
-}
-
-crit_cc = {
-    Tipo.obrigatoria : 2.520,
-    Tipo.eletiva1 : 300, ## 1 e 2
-    Tipo.optativa : 450, # extensão
-    Tipo.tcc : 360,
-}

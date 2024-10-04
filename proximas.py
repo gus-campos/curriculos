@@ -4,7 +4,7 @@ quais as próximas disciplinas que poderei fazer.
 """
 
 from classes import Tipo
-from read import cc, ce, hist, crit_cc, crit_ce
+from read import cc, ce, hist
 
 # =============================================================================
 
