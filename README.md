@@ -12,7 +12,7 @@ Ainda por cima, os dados das disciplinas que podem compor os currículos, se enc
 
 ## Como ele resolve o problema?
 
-A conversão dos dados em PDF para arquivos CSV, como o seguinte, permitiu a fácil leitura dos dados e construção dos objetos que representa os cursos/disciplinas e o currículo (um conjunto de cursos, com outros atributos e métodos relacionados).
+A conversão dos dados em PDF para arquivos CSV, como o seguinte, permitiu a fácil leitura dos dados e construção dos objetos que representa os cursos e o currículo (um conjunto de cursos, com outros atributos e métodos relacionados).
 
 ![](assets/tabela_csv.png) 
 
