@@ -10,12 +10,8 @@ A grade de Ciências Exatas na UFJF é um tanto flexível, permitindo que cada a
 
 A conversão dos dados em PDF para arquivos csv, como o seguinte, permitiu a fácil leitura dos dados e construção dos objetos que representa as diciplinas (cursos) e o currículo, que é um conjunto de cursos com outros atributos e métodos relacionados.
 
-```
-PERÍODO,CÓDIGO,NOME,CH,REQ
-2,FIS114,Física Prática I,30,---
-2,MAC013,Representação Gráfica e Modelagem Geométrica,60,MAT155
-...
-```
+![](assets/tabela_csv.png) 
+
 A partir de então, com o uso de boas práticas na nomeação das variáveis, abstração e encapsulamento, foi possível usar esse programa abstrato e intuitivo para determinar quais disciplinas eu poderia fazer de tal currículo, considerando meu histórico escolar atual:
 
 ![](assets/usage.png) 
