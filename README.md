@@ -4,7 +4,7 @@ Programa básico em Python que usa leitura de arquivos de dados e orientação �
 
 ## Que problema ele resolve?
 
-Permite a construção do meu currículo de Ciências Exatas (gradução que possui currículo flexível), de forma que considere as disciplinas que eu já realizei, que respeite os pré-requisitos das disciplinas, e contribua ao mesmo tempo para o cumprimento da grade de Ciências Exatas, e das obrigatórias de Ciênca da Computação, permitindo que eu conclua as 2 graduações no menor tempo possível.
+Permite a construção do meu currículo de Ciências Exatas (gradução que possui currículo flexível), de forma que considere as disciplinas que eu já realizei, que respeite os pré-requisitos das disciplinas, e contribua ao mesmo tempo para o cumprimento da grade de Ciências Exatas, e das obrigatórias de Ciênca da Computação, permitindo que eu conclua as 2 graduações no menor tempo possível. Ainda por cima, os dados sobre as disciplinas dos dois currículos que podem ser escolhidas, se encontram em tabelas ao longo de mais 30 páginas de documentos PDF, o que pode ser um tanto confuso. 
 
 ![](assets/tabela_pdf.png) 
 
