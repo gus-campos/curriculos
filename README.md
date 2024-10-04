@@ -18,3 +18,27 @@ PERÍODO,CÓDIGO,NOME,CH,REQ
 2,MAT122,Geometria Plana,60,---
 2,MAT133,Fundamentos de Matemática Elementar,60,---
 ```
+A partir de então, com o uso de boas práticas na nomeação das variáveis, foi possível usar esse simples código intuitivo para determinar que disciplinas eu poderia fazer de tal currículo, baseado no meu histórico escolar:
+
+```
+ ========== OBRIGATÓRIAS - PERÍODO 2 ========== 
+
+FIS077 | LABORATÓRIO DE FÍSICA I
+MAT143 | INTRODUÇÃO À TEORIA DOS NÚMEROS
+DCC013 | ESTRUTURA DE DADOS
+DCC160 | LÓGICA E FUNDAMENTOS PARA A COMPUTAÇÃO
+DCC070 | ORGANIZAÇÃO DE COMPUTADORES
+DCC163 | PESQUISA OPERACIONAL
+EST029 | CÁLCULO DE PROBABILIDADES I
+DCC025 | ORIENTAÇÃO A OBJETOS
+
+ ========== OBRIGATÓRIAS - PERÍODO 3 ========== 
+
+DCC001 | ANÁLISE E PROJETO DE ALGORITMOS
+DCC012 | ESTRUTURA DE DADOS II
+DCC059 | TEORIA DOS GRAFOS
+DCC063 | LINGUAGENS FORMAIS E AUTÔMATOS
+DCC042 | REDES DE COMPUTADORES
+DCC062 | SISTEMAS OPERACIONAIS
+DCC117 | MODELAGEM DE SISTEMAS
+```
