@@ -22,6 +22,8 @@ A partir de então, com o uso de boas práticas na nomeação das variáveis, ab
 
 ## Resultado
 
+Uma lista dizendo exatamente quais disciplinas devo fazer em cada período, para que eu conclua a graduação em Ciências Exatas no menor tempo possível, e ao mesmo tempo contribua no cumprimento da carga horária da minha futura graduação em Ciência da Computação.
+
 ```
  ========== OBRIGATÓRIAS - PERÍODO 2 ========== 
 
