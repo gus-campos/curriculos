@@ -10,11 +10,11 @@ A grade de Ciências Exatas na UFJF é um tanto flexível, permitindo que cada a
 
 A conversão dos dados em PDF para arquivos csv, como o seguinte
 
-``
+```
 PERÍODO,CÓDIGO,NOME,CH,REQ
 2,FIS114,Física Prática I,30,---
 2,MAC013,Representação Gráfica e Modelagem Geométrica,60,MAT155
 2,MAT049,Álgebra Linear II,60,MAT155
 2,MAT122,Geometria Plana,60,---
 2,MAT133,Fundamentos de Matemática Elementar,60,---
-``
+```
