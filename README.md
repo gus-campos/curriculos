@@ -20,7 +20,7 @@ PERÍODO,CÓDIGO,NOME,CH,REQ
 ```
 A partir de então, com o uso de boas práticas na nomeação das variáveis, foi possível usar esse simples código intuitivo para determinar que disciplinas eu poderia fazer de tal currículo, baseado no meu histórico escolar:
 
-![](assets/uso.png)
+![](assets/uso.png) 
 
 ## Resultado
 
