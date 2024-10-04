@@ -8,7 +8,7 @@ A dificuldade em montar meu currículo de Ciências Exatas (gradução que possu
 
 Ainda por cima, os dados dos cursos que podem compor os currículos, se encontram em tabelas ao longo de mais 30 páginas de documentos PDF, o que pode ser um tanto confuso. 
 
-![](assets/tabela_pdf.png)  
+
 
 ## Como ele resolve o problema?
 
