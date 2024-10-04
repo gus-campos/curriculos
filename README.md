@@ -1,4 +1,4 @@
-# O que é este programa?
+## O que é este programa?
 
 É um programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de cursos a serem feitas na minha graduação. 
 
