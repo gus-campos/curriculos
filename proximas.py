@@ -17,16 +17,18 @@ cc.atualiza(hist)
 # Para cada curso de Ciências Exatas
 for curso in ce.cursos:
 
-    # Achar o correspondente em ciência da computação    
+    # Achar o curso correspondente no currículo de Ciência da Computação    
     corresp = curso.correspondente(cc)
 
-    # Se houver correspondente obrigatório, for possível, e não tiver sido feito
+    # Se o correspondente existir, for obrigatório, 
+    # eu tiver os requisitos, e ainda não tiver sido feito
     if (corresp is not None 
         and corresp.tipo == Tipo.obrigatoria
         and curso.possivel
         and not curso.feito):
             
-            # Imprimir e marcar como concluído, para calcular período seguinte
+            # Imprimir o curso, e marcar como concluído, 
+            # para simulação do período seguinte
             print(curso)
             curso.feito = True
             hist.append(curso)
