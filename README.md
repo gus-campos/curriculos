@@ -14,11 +14,9 @@ A conversão dos dados em PDF para arquivos csv, como o seguinte, permitiu a fá
 PERÍODO,CÓDIGO,NOME,CH,REQ
 2,FIS114,Física Prática I,30,---
 2,MAC013,Representação Gráfica e Modelagem Geométrica,60,MAT155
-2,MAT049,Álgebra Linear II,60,MAT155
-2,MAT122,Geometria Plana,60,---
-2,MAT133,Fundamentos de Matemática Elementar,60,---
+...
 ```
-A partir de então, com o uso de boas práticas na nomeação das variáveis, foi possível usar esse simples código intuitivo para determinar que disciplinas eu poderia fazer de tal currículo, baseado no meu histórico escolar:
+A partir de então, com o uso de boas práticas na nomeação das variáveis, abstração e encapsulamento, foi possível usar esse programa abstrato e intuitivo para determinar quais disciplinas eu poderia fazer de tal currículo, considerando meu histórico escolar atual:
 
 ![](assets/usage.png) 
 
