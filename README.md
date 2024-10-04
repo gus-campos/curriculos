@@ -1,6 +1,6 @@
 # O que é
 
-Programa básico em Python que usa orientação à objetos e leitura de arquivos para representar disciplinas/cursos e currículos, de forma que eu posso analisar a melhor sequência de disciplinas a serem feitas na minha graduação. 
+Programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de disciplinas a serem feitas na minha graduação. 
 
 ## O problema
 
