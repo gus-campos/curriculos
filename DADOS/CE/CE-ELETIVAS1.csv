@@ -1,0 +1,282 @@
+PERÍODO,CÓDIGO,NOME,CH,REQ
+2,FIS114,Física Prática I,30,---
+2,MAC013,Representação Gráfica e Modelagem Geométrica,60,MAT155
+2,MAT049,Álgebra Linear II,60,MAT155
+2,MAT122,Geometria Plana,60,---
+2,MAT133,Fundamentos de Matemática Elementar,60,---
+2,MAT144,Matemática Discreta,60,---
+2,MAT148,Matemática Escolar I,60,---
+2,MAT158,Álgebra Linear,60,MAT155
+2,MAT163,Exponenciais e Logaritmos,60,---
+2,MAT164,Trigonometria,60,---
+2,MEC001,Introdução à Engenharia Mecânica,30,---
+2,MEC045,Ciência dos Materiais,30,QUI126
+2,QUI087,Química Orgânica I,60,QUI125
+2,QUI138,Introdução à Educação em Química,30,---
+2,QUI143,Química dos Elementos,60,QUI125
+2,CEL032,Circuitos Lógicos,60,DCC119 e DCC120
+2,DCC107,Laboratório de Programação II,30,DCC119 e DCC120
+2,DCC179,Laboratório de Ciência da Computação,30,---
+2,EADMAT022,Informática no Ensino da Matemática,75,---
+2,EPD046,Representação Gráfica I,30,---
+2,EPD053,Empreendedorismo,30,---
+2,EPD054,Tecnologia da Informação I,30,DCC119 e DCC120
+2,EPD062,Desenho de Máquinas,30,---
+2,EPD097,Engenharia e Sociedade,30,---
+2,ESA002,Ecologia e Preservação do Ambiente,30,QUI125
+2,FIS108,Complementos de Física I,30,---
+3,FIS115,Física Prática II,30,FIS114
+3,MAT024,Álgebra III,60,MAT143
+3,MAT029,Equações Diferenciais I,60,MAT156
+3,MAT059,Álgebra Linear III,60,MAT049
+3,MAT119,Estruturas Algébricas,60,MAT143
+3,MAT123,Geometria Espacial,60,MAT122
+3,MAT147,Análise I,60,MAT133 e MAT156
+3,MAT149,Matemática Escolar II,60,MAT148
+3,MAT157,Cálculo III,60,MAT156
+3,MAT162,Funções do Plano Complexo,60,MAT156
+3,MAT166,Tópicos de Geometria,60,MAT122
+3,MEC038,Dinâmica de Máquinas,60,EPD062
+3,QUI056,Laboratório de Termodinâmica Química,30,MAT156 e QUI125
+3,QUI079,Química Orgânica II,60,QUI087
+3,QUI081,Laboratório de Química dos Elementos,30,QUI143
+3,QUI084,Química das Soluções,60,QUI143
+3,QUI088,Laboratório de Química Orgânica I,30,QUI087
+3,QUI090,Análises Qualitativas,30,QUI143
+3,QUI130,Termodinâmica Química,60,MAT156 e QUI125
+3,QUI131,Estrutura Atômica e Molecular,60,FIS073
+3,QUI133,Termodinâmica e Cinética,60,MAT156 e QUI125
+3,QUI134,Laboratório de Termodinâmica e Cinética,30,MAT156 e QUI125
+3,DCC008,Cálculo Numérico,60,"DCC119, DCC120 e MAT156"
+3,ENE045,Laboratório de Eletrotécnica,30,FIS077 e QUI126
+3,EST064,Laboratório de Estatística,30,EST028
+3,FIS053,Física Matemática I,60,"FIS073, MAT156 e MAT158"
+3,FIS074,Física II,60,FIS073 e MAT156
+3,FIS078,Laboratório de Física II,30,"FIS073, FIS077 e MAT156"
+3,FIS109,Complementos de Física II,30,FIS073
+4,FIS111,Laboratório de Eletricidade e Eletrônica,30,FIS074 e MAT157
+4,FIS116,Física Prática III,30,FIS115
+4,FIS120,Física Computacional,60,DCC008 e MAT029
+4,MAC010,Mecânica,60,FIS073 e MAT157
+4,MAC024,Introdução à Modelagem Computacional,60,DCC008
+4,MAC026,Introdução aos Métodos Discretos,60,DCC008 e MAT029
+4,MAT025,Álgebra IV,60,MAT024
+4,MAT030,Equações Diferenciais II,60,MAT029
+4,MAT031,Introdução às Variáveis Complexas,60,MAT029
+4,MAT152,Análise II,60,MAT147
+4,MAT160,Matemática Escolar III,60,MAT149
+4,MAT161,Introdução à Análise Matemática,60,MAT157
+4,MEC017,Processos de Fabricação I,45,MEC045
+4,MEC018,Laboratório de Processos de Fabricação I,15,MEC045
+4,QUI009 (QUI509),Química Orgânica III,60,QUI079 e QUI088
+4,QUI058,Laboratório de Equilíbrio e Cinética,30,QUI056 e QUI130
+4,QUI080,Laboratório de Química Orgânica II,30,QUI079 e QUI088
+4,QUI091,Química de Coordenação,60,QUI131 e QUI143
+4,QUI092,Laboratório de Química de Coordenação,30,QUI081 e QUI131
+4,QUI094,Introdução à Análise Química,30,QUI084
+4,QUI095,Análises Volumétricas,30,QUI084
+4,QUI097,Equilíbrio e Cinética,60,QUI056 e QUI130
+4,QUI146,Instrumentação para o Ensino de Química,60,MTE193 e QUI084
+4,CEL033,Circuitos Lineares I,60,MAT029 e MAT158
+4,ENE083,Fundamentos de Resistência dos Materiais,30,DCC008 e FIS073
+4,ENE118,Informática Industrial,60,DCC008
+4,ENE131,Expressão Gráfica para Engenharia Elétrica (Desenho Auxiliado por Computador),30,MAT157
+4,EPD073,Metrologia,30,EST029
+4,EST031,Cálculo de Probabilidade II,60,EST029 e MAT157
+4,EST065,Estatística Computacional I,60,missing
+4,FIS040,Mecânica Clássica I,60,FIS053 e MAT157
+4,FIS052,Termodinâmica,60,FIS074
+4,FIS054,Física Matemática II,60,FIS053 e MAT029
+4,FIS081,Fenômenos de Transporte,60,FIS074
+4,FIS110,Complementos de Física III,30,FIS074
+5,FIS112,Óptica e Laser,60,FIS075
+5,FIS113,Laboratório de Óptica e Laser,30,FIS075 e FIS111
+5,FIS117,Física Prática IV,30,FIS116
+5,MAC002,Resistência dos Materiais I,60,MAC010 e MAT029
+5,MAC019,Representação Gráfica e Modelagem Geométrica,60,DCC008 e MAC010
+5,MAT153,Análise III,60,"MAT049, MAT152 e MAT157"
+5,MAT167,Espaços Métricos,60,MAT152
+5,MEC010,Transferência de Calor,60,FIS052
+5,MEC019,Processos de Fabricação II,45,MEC017
+5,MEC020,Laboratório de Processos de Fabricação II,15,MEC017 e MEC018
+5,QUI017,Química Orgânica IV,60,QUI009
+5,QUI059,Química Quântica,60,QUI097 e QUI131
+5,QUI096,Tópicos em Química Inorgânica,60,QUI091
+5,QUI110,Laboratório de Eletroquímica,30,QUI094 e QUI095
+5,QUI116,Química do Meio Ambiente,30,QUI094 e QUI095
+5,QUI122,História da Química,30,---
+5,QUI128,Eletroquímica,45,QUI094 e QUI095
+5,QUI137,Laboratório de Química e Saúde,30,QUI080
+5,QUI139,Experimentação no Ensino de Química,60,QUI146
+5,QUI145,Química e Saúde,60,QUI080
+5,CEL034,Circuitos Lineares II,60,CEL033 e MAT030
+5,CEL037,Laboratório de Eletrônica,30,CEL032 e CEL033
+5,CEL062,Circuitos Trifásicos,60,CEL033
+5,CEL065,Eletromagnetismo,60,FIS075 e MAT030
+5,CEL066,Sinais e Sistemas,60,MAT030
+5,CEL099,Eletrônica Analógica,60,CEL033 e MAT030
+5,ENE077,Energia e Eletricidade,60,FIS075
+5,ENE081,Métodos de Otimização,60,CEL033 e DCC008
+5,ESA003 (ESA503),Mecânica dos Fluidos (Mecânica dos Fluidos – Prática),75,FIS052
+5,EST020,Processos Estocásticos,60,EST031
+5,EST033,Inferência Estatística Paramétrica,60,EST031
+5,EST066,Estatística Computacional II,60,missing
+5,FIS041,Mecânica Clássica II,60,FIS040
+5,FIS076,Física IV,60,FIS075
+5,FIS080,Laboratório de Física IV,30,FIS075 e FIS111
+5,FIS098,Física Moderna,60,FIS075 e MAT029
+6,FIS118,Instrumentação para o Ensino I,60,FIS112
+6,FIS119,Instrumentação para o Ensino II,60,FIS118
+6,FIS121,Estrutura da Matéria II,30,FIS043
+6,MAC003,Resistência dos Materiais II,60,MAC002
+6,MAC005,Mecânica dos Sólidos I,60,MAC002 e MAC019
+6,MAC007,Laboratório de Resistência dos Materiais,30,MAC002
+6,MAC008,Introdução ao Método dos Elementos Finitos,60,MAC002
+6,MAC020,Trabalho Multidisciplinar,60,DCC008 e MAC002
+6,MAC023,Mecânica das Estruturas,60,"DCC008, MAC002 e MAC019"
+6,MAT044,História da Matemática,60,---
+6,MAT045,Elementos de Geometria Diferencial,60,MAT153
+6,MEC004,Elementos de Máquinas I,60,EPD062 e MAC002
+6,MEC005,Elementos de Máquinas II,60,MEC004
+6,MEC006,Vibrações Mecânicas,60,"MAC002, MAT030 e MEC038"
+6,MEC008,Sistemas Fluido Mecânicos,45,ESA003
+6,MEC009,Laboratório de Sistemas Fluido Mecânicos,15,ESA003
+6,MEC011,Máquinas Térmicas,60,MEC010
+6,MEC012,Refrigeração e Ar Condicionado,45,MEC011
+6,MEC013,Laboratório de Refrigeração e Ar Condicionado,15,MEC011
+6,MEC014,Motores de Combustão Interna,45,MEC012
+6,MEC015,Laboratório de Motores de Combustão,15,MEC012
+6,MEC021,Processos de Fabricação III,45,MEC019
+6,MEC022,Laboratório de Processos de Fabricação III,15,MEC019 e MEC020
+6,MEC024,Automação,45,ENE077 e EPD054
+6,MEC025,Laboratório de Automação,15,ENE077 e EPD054
+6,QUI093,Métodos Instrumentais de Análise,60,QUI110 e QUI128
+6,QUI106 (QU5106),Química Analítica Ambiental,90,QUI093 e QUI129
+6,QUI129,Laboratório de Análise Instrumental,30,QUI110 e QUI128
+6,QUI141,Planejamento e Avaliação do Ensino de Química,60,QUI139
+6,QUI142,Iniciação à Pesquisa no Ensino de Química,60,QUI139
+6,QUI121,Química Toxicológica,30,QUI137 e QUI145
+6,CEL030,Laboratório de Circuitos Elétricos,30,CEL034
+6,CEL035,Eletrônica Digital,60,CEL032 e CEL099
+6,CEL038,Teoria de Controle I,60,CEL034
+6,CEL 039,Teoria de Controle II,60,CEL038 e CEL066
+6,CEL040,Eletrônica de Potência,60,CEL099 e ENE125
+6,CEL068,Princípios de Comunicações,60,"CEL066, CEL099 e EST028"
+6,CEL069,Microprocessadores – Arquitetura e Programação,60,CEL035
+6,CEL070,Introdução aos Processos Estocásticos,60,CEL066 e EST028
+6,CEL071,Laboratório de Sistemas Eletrônicos,30,CEL037 e CEL099
+6,CEL073,Redes de Comunicação e Protocolos de Comunicação I,60,CEL099
+6,CEL074,Projeto de Circuitos Integrados Analógicos,60,CEL109
+6,CEL077,Laboratório de Sistemas Eletrônicos II,30,CEL035 e CEL071
+6,CEL078,Instrumentação Eletrônica,60,CEL069
+6,CEL080,Software Embarcado,60,CEL069
+6,CEL082,Laboratório de Projetos Eletrônicos,30,CEL071
+6,CEL084,Fontes Chaveadas,30,"CEL039, CEL069 e CEL077"
+6,CEL085,Sistemas de Comunicações I,60,CEL073
+6,CEL086,Antenas e Propagação,60,CEL101
+6,CEL087,Microondas,60,CEL101
+6,CEL088,Comunicação Digital,60,CEL068
+6,CEL089,Laboratório de Comunicações I,30,CEL068
+6,CEL091,Comunicações sem Fio,60,CEL101
+6,CEL093,Redes de Comunicação e Protocolos de Comunicação II,60,CEL068 e CEL073
+6,CEL095,Laboratório de Comunicações II,30,CEL068
+6,CEL100,Processamento de Sinais I,60,CEL035 e CEL066
+6,CEL101,Eletromagnetismo Aplicado,60,CEL033 e CEL065
+6,CEL102,Projeto de Circuitos de Rádio Frequência,60,CEL101
+6,CEL103,Laboratório de Sistemas Eletrônicos III,30,CEL071
+6,CEL104,Processamento de Sinais II,60,CEL070 e CEL100
+6,CEL106,Comunicações Ópticas,60,CEL101
+6,CEL108,Sistemas de Comunicações II,60,CEL068 e CEL101
+6,CEL109,Amplificadores e Realimentação,60,CEL037 e CEL099
+6,CEL110,Dispositivos Lógicos Programáveis,60,CEL069
+6,ENE005,Análise Sistemas Elétricos Potência I,60,ENE079
+6,ENE006,Análise Sistemas Elétricos Potência II,60,ENE079
+6,ENE048,Laboratório de Máquinas Elétricas I,30,ENE079
+6,ENE049,Laboratório de Máquinas Elétricas II,30,ENE093
+6,ENE050,Distribuição de Energia Elétrica,60,ENE082
+6,ENE054,Transmissão de Energia Elétrica,60,ENE079
+6,ENE057,Estabilidade de Sistemas Elétricos de Potência,60,ENE093
+6,ENE059,Operação de Sistemas Elétricos de Potência,60,CEL038
+6,ENE079,Conversão Eletromecânica de Energia I,60,CEL062 e CEL065
+6,ENE082,Instalações Elétricas,60,CEL062 e ENE131
+6,ENE084,Análise de Investimentos e Gestão de Obras,60,CEL034
+6,ENE085,Eficiência e Gestão Energética,60,"ENE082, ENE084 e ENE093"
+6,ENE086,Laboratório de Controle,30,CEL038
+6,ENE087,Fundamentos de Sistemas Elétricos de Potência,60,ENE079
+6,ENE090,Automação Industrial,60,CEL035
+6,ENE093,Conversão Eletromecânica de Energia II,60,ENE079
+6,ENE094,Instalações Elétricas Industriais,60,ENE082
+6,ENE095,Proteção de Sistemas Elétricos de Potência,60,ENE005
+6,ENE096,Eletrotécnica Industrial,60,ENE050
+6,ENE099,Fontes Primárias e Alternativas,60,CEL062 e QUI125
+6,ENE101,Sistemas Fotovoltaicos,30,CEL040 e ENE084
+6,ENE103,Sistemas de Geração Eólica,30,ENE050 e ENE084
+6,ENE104,Sistemas de Geração Hidráulica,60,ENE093
+6,ENE105,Aproveitamento Energético de Biomassa,30,ENE084 e QUI125
+6,ENE106,Planejamento Energético,30,ENE081
+6,ENE107,Fundamentos da Indústria do Petróleo e Gás,60,ENE082 e QUI125
+6,ENE110,Redes Locais Industriais,30,ENE090
+6,ENE111,Acionamento Eletrônico de Máquinas Elétricas,60,CEL038 e CEL040
+6,ENE112,Controle Digital,60,CEL039
+6,ENE121,Modelagem e Controle de Processos Industriais,60,CEL039 e ENE090
+6,ENE122,Robótica Móvel,60,CEL038
+6,ENE123,Sistemas a Eventos Discretos,60,ENE090
+6,ENE124,Manipuladores Robóticos,60,CEL038
+6,ENE125,Fundamentos de Conversão Eletromecânica de Energia,60,CEL062 e CEL065
+6,ENE127,Materiais e Equipamentos Elétricos,30,ENE082
+6,ENE127,Geração Termelétrica e Cogeração,60,ENE093 e FIS081
+6,ENE130,Energia e Meio Ambiente,30,ENE082 e ESA002
+6,ENE132,Mercado de Energia Elétrica,30,ENE081
+6,ENE134,Planejamento da Expansão de Sistemas de Energia Elétrica,30,ENE081 e ENE087
+6,ENE137,Laboratório de Robótica Móvel,30,ENE086
+6,ENE138,Laboratório de Manipuladores Robóticos,30,ENE086
+6,EST035,Amostragem I,60,EST033 e EST066
+6,EST036,Análise de Regressão,60,"EST053,  EST066 e MAT158"
+6,EST037,Inferência Estatística Não-Paramétrica,60,EST053
+6,EST038,Amostragem II,60,EST035 e EST053
+6,EST039,Análise Multivariada,60,EST053 e MAT158
+6,EST040,Análise e Previsão de Séries Temporais I,60,EST036
+6,EST041,Planejamento de Experimentos,60,EST035 e EST036
+6,EST042,Controle Estatístico de Qualidade,60,EST035 e EST053
+6,EST043,Análise de Dados Categóricos,60,EST053
+6,EST047,Estatística Bayesiana,60,EST033 e EST066
+6,EST048,Modelos Lineares Generalizados,60,EST036 e EST039
+6,EST053,Inferência Estatística Paramétrica II,60,EST033
+6,FIS031,Mecânica Quântica I,60,missing
+6,FIS032,Mecânica Quântica II,60,missing
+6,FIS033,Teoria Eletromagnética I,60,missing
+6,FIS034,Teoria Eletromagnética II,60,missing
+6,FIS043,Estrutura da Matéria I,60,FIS098
+6,FIS051,Evolução da Física,60,FIS112 e MAT029
+6,FIS069,Física Estatística,60,FIS031 e FIS052
+6,FIS100,Laboratório de Física Moderna,60,FIS098
+2,MAC011,Introdução à Engenharia Computacional,30,---
+2,MAT013,Matemática Financeira,60,---
+2,MAT143,Introdução à Teoria dos Números,60,---
+2,DCC013,Estrutura de Dados,60,DCC119 e DCC120
+2,DCC122,Circuitos Digitais,60,---
+2,DCC160,Lógica e Fundamentos para a Computação,60,---
+3,DCC001,Análise e Projeto de Algoritmos,60,DCC013 e DCC107
+3,DCC012,Estrutura de Dados II,60,DCC013 e DCC107
+3,DCC025,Orientação a Objetos,60,DCC013 e DCC107
+3,DCC059,Teoria dos Grafos,60,DCC013 e DCC107
+3,DCC063,Linguagens Formais e Autômatos,60,DCC013 e DCC107
+3,DCC065,Computação Gráfica,60,MAT158
+3,DCC070,Organização de Computadores,60,DCC122
+3,DCC163,Pesquisa Operacional,60,MAT158
+3,EADDCC044,Informática e Sociedade,30,DCC179
+3,EST029,Cálculo de Probabilidades I,60,MAT156
+3,EST030,Análise Exploratória de Dados,60,EST028
+4,DCC014,Inteligência Artificial,60,"DCC059, DCC160 e EST028"
+4,DCC019,Linguagem de Programação,60,DCC012 e DCC025
+4,DCC042,Redes de Computadores,60,DCC070
+4,DCC045,Teoria dos Compiladores,60,DCC063
+4,DCC055,Teoria da Computação,60,DCC063
+4,DCC062,Sistemas Operacionais,60,DCC070
+4,DCC117,Modelagem de Sistemas,60,DCC025
+4,FIS075,Física III,60,FIS074 e MAT157
+5,DCC060,Banco de Dados,60,DCC012 e DCC117
+5,DCC061,Engenharia de Software,60,DCC117
+5,DCC064,Sistemas Distribuídos,60,DCC062
+5,DCC125,Programação Paralela,60,DCC062
+6,DCC174,Interação Humano-Computador,60,DCC061

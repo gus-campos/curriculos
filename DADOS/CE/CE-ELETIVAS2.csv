@@ -1,0 +1,274 @@
+PERÍODO,CÓDIGO,NOME,CH,REQ
+6,MEC049,Modelagem Computacional de Escoamentos Reativos,45,MEC051
+6,MEC050,Introdução à Dinâmica dos Fluidos Computacional,60,MEC010 e MEC051
+6,MEC051,Dinâmica dos Fluidos,60,ESA003
+6,MEC052,Fundamentos de Combustão,60,ESA003 e MEC010
+2,MTE177,Saberes Químicos Escolares,60,---
+2,MTE179,Saberes Físicos Escolares,60,---
+3,MTE193,Metodologia do Ensino de Química,60,MTE177
+2,PEO039,Processo Ensino Aprendizagem,60,---
+2,SCO012,Epidemiologia,60,---
+2,UNI001,Língua Inglesa Instrumental I,60,---
+3,UNI002,Língua Inglesa Instrumental II,60,UNI001
+4,UNI003,Língua Inglesa Instrumental III,60,UNI002
+2,UNI004,Francês Instrumental I,60,---
+3,UNI005,Francês Instrumental II,60,UNI004
+4,UNI006,Francês Instrumental III,60,UNI005
+2,UNI007,Espanhol Instrumental,60,---
+3,UNI008,Espanhol Instrumental,60,UNI007
+4,UNI009,Espanhol Instrumental,60,UNI008
+2,UNI010,Italiano Instrumental I,60,---
+3,UNI011,Italiano Instrumental II,60,UNI010
+4,UNI012,Italiano Instrumental III,60,UNI011
+2,UNI013,Latim Instrumental I,60,---
+3,UNI014,Latim Instrumental II,60,UNI013
+6,2028033,Metodologias Alternativas de Ensino de Matemática,60,---
+6,2028034,Modelagem Matemática,60,---
+6,2028035,Pensamento Comparativo em Matemática,60,---
+6,2028036,Perspectivas Atuais em Avaliação,60,---
+6,2028038,Representação Gráfica,60,---
+6,2028039,Resolução de Problemas em Geometria,60,---
+6,2028050,Ambientes Virtuais de Aprendizagem,60,---
+2,ADE103,Políticas Públicas e Gestão do Espaço Escolar,60,---
+3,ANE040,Microeconomia,60,ECO034 e MAT156
+6,ANE036,Econometria II,60,EST036
+2,BQU049 (BQU549),Química Biológica,60,---
+3,CAD005,Administração Mercadológica I,60,CAD041
+2,CAD041,Administração,60,---
+2,CAD076,Princípios de Administração I,60,---
+2,CEL042,Seminários em Eletrônica,60,---
+5,CEL049,Medidas Elétricas,60,CEL033
+5,CEL050,Eletrônica I,60,FIS075
+6,CEL054,Seminários em Controle,60,---
+6,CEL055,Seminários em Controle,60,---
+6,CEL056,Seminários em Eletrônica,60,---
+6,CEL057,Seminários em Eletrônica,60,---
+6,CEL058,Seminários em Engenharia de Sistemas,60,---
+6,CEL059,Seminários em Engenharia de Sistemas,60,---
+6,CEL060,Seminários em Telecomunicações,60,---
+6,CEL061,Seminários em Telecomunicações,60,---
+6,CEL072,Hardware e Interfaceameto,60,CEL071
+2,CEL063,Engenharia Elétrica e Sociedade,30,---
+2,CEL067,Fundamentos de Telecomunicações,30,---
+6,CEL083,Inteligência Computacional,60,ENE081
+6,CEL090,Teoria da Informação,60,CEL070 e CEL088
+2,CEL096,Princípios de Microeletrônica,60,---
+2,CSO073,Sociologia da Saúde,60,---
+3,DCC024,Programação Linear,60,MAT158
+2,DCC049,Empreendimentos em Informática,60,---
+4,DCC079,Programação para Web,60,DCC025
+4,DCC037,Laboratório de Organização de Computadores,30,DCC070
+2,DCC152,Fundamentos de Desenvolvimento Web,60,---
+6,DCC156,Laboratório de Programação IV,60,"DCC117, DCC152 e DCC171"
+5,DCC162,Padrões de Projeto,60,DCC117
+6,DCC171,Laboratório de Programação III,60,DCC025 e DCC060
+2,DPR032,Noções de Direito Privado,60,---
+2,EDU034,"Estado, Sociedade e Educação",60,---
+5,DCC071,Laboratório de Sistemas Operacionais,30,DCC062
+5,DCC072,Laboratório de Redes de Computadores,30,DCC042
+2,EDU054,Questões Filosóficas Aplicadas à Educação,60,---
+2,EDU088,Língua Brasileira de Sinais (LIBRAS),60,---
+3,EDU135,Metodologia do Ensino de Física,60,MTE179
+4,EDU150,Prática em Ensino de Química na Escola Básica I,60,QUI084
+5,EDU152,Prática em Ensino de Química na Escola Básica II,60,EDU149 e EDU150
+2,EDU176,Prática em Ensino de Física na Escola Básica I,60,---
+3,EDU178,Prática em Ensino de Física na Escola Básica II,60,EDU176
+6,DCC080,Laboratório Integrado de Desenvolvimento de Software,30,DCC060 e DCC061
+2,EDU306,Saberes Matemáticos na Escola,60,---
+6,DCC083,Qualidade de Software,30,DCC061
+3,EDU308,Metodologia para o Ensino da Matemática,60,EDU306 e EDU307
+4,EDU310,Prática Escolar em Ensino de Matemática na Educação Básica I,60,EDU308
+5,EDU312,Prática Escolar em Ensino de Matemática na Educação Básica II,60,EDU309 e EDU310
+6,ENE058,Métodos Computacionais Aplicados a Sistemas Elétricos de Potência,60,ENE005
+6,ENE074,Seminários em Sistemas de Potência,60,CEL062
+6,ENE133,Confiabilidade de Sistemas Elétricos de Potência,60,ENE050
+4,EPD015,Pesquisa Operacional em Engenharia de Produção,60,DCC008 e MAT029
+2,EPD016,Engenharia de Produto I,60,---
+2,EPD026,Planejamento Estratégico,60,---
+4,EPD023,Projeto de Fábrica e Lay Out,60,EPD080
+6,DCC097,Seminário em Computação I,30,---
+6,DCC098,Seminário em Computação II,30,---
+6,DCC099,Seminário em Computação III,30,---
+6,DCC100,Seminário em Computação IV,30,---
+6,DCC101,Seminário em Computação V,30,---
+6,DCC102,Seminário em Computação VI,30,---
+6,DCC103,Seminário em Computação VII,30,---
+6,DCC104,Seminário em Computação VIII,30,---
+6,DCC105,Seminário em Computação IX,30,---
+5,EPD042,Modelagem e Simulação em Engenharia de Produção,60,EPD015
+3,EPD045,Engenharia de Produto II,60,EPD016
+2,EPD057,Ergonomia,60,---
+5,DCC128,Gerência de Redes,30,DCC042
+2,EPD067,Engenharia da Qualidade I,60,---
+5,DCC130,"Computação Móvel, Ubíqua e Pervasiva",30,DCC042
+5,DCC131,Projeto de Redes de Computadores,30,DCC042
+3,EPD068,Engenharia da Qualidade II,60,EPD067
+5,EPD069,Logística I,60,EPD015
+6,EPD070,Logística II,60,EPD069
+2,EPD075,Organização do Trabalho e Produção,60,---
+3,EPD080,Planejamento e Controle da Produção I,60,EPD075
+2,EST034,A Profissão e o Mercado de Trabalho,60,---
+2,EST046,Introdução aos Conceitos Demográficos,60,---
+2,FIN013,Gestão Financeira em Engenharia de Produção I,60,---
+4,DCC142,Análise e Projeto de Algoritmos II,30,DCC001
+3,FIN014,Gestão Financeira em Engenharia de Produção II,60,FIN013
+6,FIS028,Física Radiológica,60,FIS121
+6,FIS030,Mecânica Analítica,60,FIS041
+6,FIS050,Relatividade,60,FIS112
+6,FIS056,Física de Partículas,60,FIS031
+6,FIS067,Laboratório Especial,90,FIS112
+6,FIS086,Introdução à Física Atômica e Molecular,60,FIS043
+6,FIS088,Seminário de Tópicos Especiais de Física I,60,---
+6,FIS090,Introdução à Teoria de Campos,60,FIS031
+5,FIS091,Física Matemática III,60,FIS054
+6,FIS092,Tópicos de Física Experimental I,60,---
+6,DCC157,Laboratório de Programação V,30,DCC171
+6,DCC158,Laboratório de Programação VI,30,DCC171
+5,DCC159,Laboratório de Aplicações de Redes de Computadores,30,DCC042
+6,FIS093,Física do Estado Sólido,60,FIS043
+6,FIS095,Tópicos de Física Experimental II,60,---
+6,FIS101,Proteção Radiológica,60,FIS121
+6,FIS102,Introdução ao Magnetismo,60,FIS098
+6,FIS104,Fundamentos de Mecânica Quântica,60,FIS031
+5,FIS106,Elementos de Mecânica dos Fluidos,60,"FIS040, FIS074 e"
+6,FIS107,Relatividade Geral e Cosmologia,60,FIS041
+2,GEO080,Geografia da População,60,---
+2,GEO102(GE5102),Elementos de Mineralogia e Petrografia,60,QUI125
+2,GEO109,Introdução ao Geoprocessamento,60,---
+2,LEM184,LIBRAS e Educação para Surdos,60,---
+6,MAC004,Resistência dos Materiais III,60,MAC003
+4,MAC014,Tópicos Especiais em Otimização,60,DCC008
+6,MAC025,Modelagem Computacional de Fenômenos Aerolásticos,60,EST029 e MAC002
+4,MAC028,Tópicos Avançados em Modelagem Geométrica Computacional,60,MAC013
+6,MAC029,Aplicação de Processamento de Imagens para a Solução de Problemas de Engenharia,60,MAC002
+4,MAT034,Elementos de Topologia Geral,60,MAT147
+2,EADDCC043,Avaliação de Software Educacional,30,---
+6,MAT058,Equações Diferenciais Parciais,60,MAT030 e MAT153
+5,MAT060,Integral de Lebesgue,60,MAT152
+4,MAT085,Introdução à Análise Tensorial,60,MAT049 e MAT147
+6,MAT087,Introdução às Variedades Diferenciáveis,60,MAT153
+5,MAT088,Introdução ao Cálculo Variacional,60,MAT030
+5,MAT140,Equações Diferenciais Ordinárias,60,MAT049 e MAT152
+5,MAT159,Introdução à Análise Funcional,60,MAT152
+2,EDU147,Prática Escolar em Políticas Públicas e Gestão do Espaço Escolar,30,---
+2,EDU148,Prática Escolar em Saberes Químicos Escolares,30,---
+4,EDU149,Ensino de Química na Escola Básica I,30,QUI084
+6,MAT170,Geometria Não Euclidiana,60,---
+5,EDU151,Ensino de Química na Escola Básica II,30,EDU149 e EDU150
+6,MAT171,Introdução aos Grupos de Matrizes,60,MAT153
+2,EDU174,Prática Escolar em Saberes Físicos Escolares,30,---
+2,EDU175,Ensino de Física na Escola Básica I,30,---
+4,MAT172,Introdução às Álgebras de Lie,60,MAT059
+3,EDU177,Ensino de Física na Escola Básica II,30,EDU175
+5,MAT173,Introdução às Representações de Grupos Finitos,60,MAT025
+3,MAT174,Teoria dos Números,60,MAT143
+2,EDU307,Prática Escolar em Saberes Matemáticos na Escola,30,---
+6,MAT175,Tópicos em Álgebra I,60,---
+4,EDU309,Ensino de Matemática na Educação Básica I,30,EDU308
+6,MAT176,Tópicos em Álgebra II,60,---
+5,EDU311,Ensino de Matemática na Educação Básica II,30,EDU309 e EDU310
+6,MAT177,Tópicos em Análise I,60,---
+6,MAT178,Tópicos em Análise II,60,---
+6,MAT179,Tópicos em Geometria I,60,---
+6,ENE089,Fundamentos de Sistemas Inteligentes,30,ENE081
+6,ENE097,Transitórios Eletromagnéticos,30,ENE054
+6,ENE115,Controladores Inteligentes,30,ENE081
+6,MAT180,Tópicos em Geometria II,60,---
+6,MAT181,Tópicos em Matemática Aplicada I,60,---
+6,MAT182,Tópicos em Matemática Aplicada II,60,---
+3,MEC002,Contexto e Prática em Engenharia Mecânica I,60,MEC001
+4,MEC003,Contexto e Prática em Engenharia Mecânica II,60,MEC002
+6,MEC007,Projeto de Máquinas,60,MEC005 e MEC006
+6,MEC026,Manipuladores Robóticos,45,MEC024
+3,EPD055,Tecnologia da Informação II,30,EPD054
+3,EPD058,Gestão da Inovação,30,EPD016
+3,EPD059,Gestão do Projeto,30,EPD016
+6,MEC027,Laboratório de Manipuladores Robóticos,15,MEC024
+2,EPD064,Gestão de Manutenções,30,---
+6,MEC029,Programação para Automação,60,MEC024
+6,MEC030,Instrumentação e Sistemas de Medidas,60,MEC026
+3,MEC043,Laboratório de Ciência dos Materiais,15,MEC045
+6,MEC044,Aerodinâmica,60,ESA005
+3,MEC046,Projeto de Aeronaves,60,FIS073 e MAT156
+6,MEC047,Máquinas de Fluxo em Sistemas de Propulsão,45,MEC008
+2,ESA011,Fundamentos de Segurança no Trabalho,30,---
+5,MEC048,Métodos Numéricos em Turbomáquinas,45,MAT030
+2,CAD014,Administração e Organização de Empresas,60,---
+2,DCC086,Informática na Educação,60,---
+6,DCC089,Tópicos em Computação Científica I,60,---
+6,DCC090,Tópicos em Computação Científica II,60,---
+6,DCC091,Tópicos em Redes e Processamento Distribuído I,60,---
+6,DCC092,Tópicos em Redes e Processamento Distribuído II,60,---
+6,DCC093,Tópicos em Desenvolvimento de Software I,60,---
+6,DCC094,Tópicos em Desenvolvimento de Software II,60,---
+6,DCC095,"Tópicos em Ciência, Tecnologia e Sociedade I",60,---
+6,FIS072,Seminário de Tópicos Especiais de Física II,30,---
+6,DCC096,"Tópicos em Ciência, Tecnologia e Sociedade II",60,---
+6,FIS087,Tópicos de Física Teórica I,30,---
+2,DCC124,Ambientes Virtuais de Aprendizagem,60,---
+2,DCC133,Introdução a Sistemas de Informação,60,---
+6,DCC138,Tópicos de Linguagem de Programação I,60,---
+6,DCC139,Tópicos de Linguagem de Programação II,60,---
+6,DCC140,Tópicos em Inteligência Computacional I,60,---
+6,FIS094,Tópicos de Física Teórica II,30,---
+6,DCC141,Tópicos em Inteligência Computacional II,60,---
+2,DCC154,Gerência de Projetos,60,---
+2,EADDCC049,Aspectos Legais da Informática,60,---
+6,FIS103,Seminários em Física,30,---
+2,ECO034,Economia,60,---
+2,FIN001,Contabilidade Geral e Introdutória,60,---
+5,DCC155,Gestão do Conhecimento,60,CAD076 e DCC117
+4,DCC173,Análise Numérica,60,DCC008
+4,DCC190,Solução Numérica de Equações Diferencia,60,DCC008
+3,DCC127,Mineração de Dados,60,DCC013 e DCC107
+3,DCC172,Programação Competitiva,60,DCC013 e DCC107
+5,DCC167,Sistemas Inteligentes,60,DCC014
+6,MAC009,Análise Experimental em Dinâmica das Estruturas,30,MAC007
+4,DCC148,Desenvolvimento de Jogos,60,DCC025 e MAT155
+5,DCC075,Segurança em Sistemas de Computação,60,DCC042
+5,DCC126,TV Digital,60,DCC042
+5,DCC144,Administração de Redes,60,DCC042
+5,DCC082,Sistemas Multimídia,60,DCC042 e DCC062
+3,DCC088,Gestão da Tecnologia e Inovação Tecnológica,60,DCC049
+4,DCC033,Fluxo em Redes,60,DCC059
+2,MAT083,Seminário,30,---
+4,DCC067,Computação Evolucionista,60,DCC059
+4,DCC068,Redes Neurais Artificiais,60,DCC059
+4,DCC136,Inteligência Computacional,60,DCC059
+2,MAT091,Seminário,30,---
+2,MAT102,Seminário,30,---
+2,MAT103,Seminário,30,---
+2,MAT105,Seminário,30,---
+2,MAT106,Seminário,30,---
+6,DCC077,Aspectos Avançados em Banco de Dados,60,DCC060
+6,DCC143,Administração de Dados,60,DCC060
+6,DCC147,Data Warehouse,60,DCC060
+6,DCC164,Recuperação da Informação,60,DCC060
+6,DCC166,Sistemas de Apoio à Decisão,60,DCC060
+6,DCC078,Aspectos Avançados em Engenharia de Software,60,DCC061
+6,DCC132,Engenharia de Software Experimental,60,DCC061
+6,DCC153,Gerência de Configuração de Software,60,DCC061
+6,DCC168,Teste de Software,60,DCC061
+6,EADDCC037,Projeto de Software Educacional,60,DCC061
+4,DCC057,Arquitetura de Computadores,60,DCC070
+5,DCC149,Engenharia de Requisitos,60,DCC117
+5,DCC161,Modelagem de Negócio,60,DCC117
+5,DCC176,Sistemas Colaborativos,60,DCC117
+2,DCC137,Sistemas Nebulosos,60,DCC119 e DCC120
+3,DCC191,Visualização Científica,60,"DCC119, DCC120 e MAT156"
+3,DCC066,Processamento de Imagens,60,"DCC119, DCC120 e MAT158"
+3,DCC129,Realidade Virtual e Aumentada,60,"DCC119, DCC120 e MAT158"
+6,MEC023,Manufatura Assistida por Computador,30,MEC019
+3,DCC145,Aspectos Organizacionais de Sistemas de Informação,60,DCC133
+3,DCC165,Segurança e Auditoria de Sistemas,60,DCC133
+3,DCC076,Programação em Lógica,60,DCC160
+4,DCC069,Programação Não Linear,60,DCC163
+6,MEC039,Turbinas a Gás em Termelétricas,30,MEC011
+6,MEC040,Usinagem de Ultraprecisão,30,MEC019
+6,MEC041,Sistemas Pneumáticos,30,MEC024
+5,MEC042,Simulação Dinâmica e Controle de Processos,30,MAT030
+4,DCC177,Pesquisa Operacional II,60,DCC163
+5,DCC178,Pesquisa Operacional III,60,DCC177
+6,EADDCC048,Objetos de Aprendizagem,60,EADDCC037
+3,DCC073,Teoria de Filas,60,EST028
+3,DCC074,Avaliação de Desempenho de Sistemas,60,EST028

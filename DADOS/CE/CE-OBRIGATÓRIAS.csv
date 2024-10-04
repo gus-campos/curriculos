@@ -1,0 +1,16 @@
+PERÍODO,CÓDIGO,NOME,CH,REQ,EQV
+1,MAT154,Cálculo I,60,---,MAT154E
+1,MAT155,Geometria Analítica e Sistemas Lineares,60,---,MAT155E
+1,QUI125,Química Fundamental,60,---,QUI125E
+1,DCC119,Algoritmos,60,---,DCC119E
+1,DCC120,Laboratório de Programação,30,---,
+1,FIS122,Laboratório de Introdução às Ciências Físicas,30,---,ICE002
+1,QUI126,Laboratório de Química,30,---,
+1,ICE001,Introdução às Ciências Exatas,30,---,FIS085 ou QUI157
+2,MAT156,Cálculo II,60,MAT154 e MAT155,MAT156E
+2,FIS073,Física I,60,MAT154,FIS073E
+2,FIS077,Laboratório de Física I,30,FIS122,
+2,QUI162,Laboratório de Estrutura e Transformações,30,QUI126,ICE002 ou QUI168
+2,EST028,Introdução à Estatística,60,MAT154,
+5,CCE001,TCC I,180,,
+6,CCE002,TCC II,180,,
