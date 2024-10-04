@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5fdeeb24-19c6-4223-90e1-8e17fbecb562)# O que é
+# O que é
 
 Programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de disciplinas a serem feitas na minha graduação. 
 
@@ -8,7 +8,7 @@ A grade de Ciências Exatas na UFJF é um tanto flexível, permitindo que cada a
 
 ## A solução
 
-A conversão dos dados em PDF para arquivos csv, como o seguinte
+A conversão dos dados em PDF para arquivos csv, como o seguinte, permitiu a fácil leitura dos dados e construção dos objetos que representa as diciplinas (cursos) e o currículo, que é um conjunto de cursos com outros atributos e métodos relacionados.
 
 ```
 PERÍODO,CÓDIGO,NOME,CH,REQ
